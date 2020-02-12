@@ -1,2 +1,2 @@
-﻿  RGBCubeScene.cpp
-  lab3_interpolationShader.vcxproj -> H:\Documents\Shaders Year 2\Week 18\Lab3\Lab\x64\Debug\lab3_interpolationShader.exe
+﻿  stdafx.cpp
+h:\documents\year 2 term 2\shaders year 2\shaders-lab3\lab\lab3_interpolationshader\stdafx.h(18): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
